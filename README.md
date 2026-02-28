@@ -1,4 +1,4 @@
 ## Hi there 👋 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abantikabhuti&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abantikabhuti&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
